@@ -1,0 +1,14 @@
+D:\Нова папка\Dnevnik\Dnevnik\bin\Debug\net8.0\Dnevnik.exe
+D:\Нова папка\Dnevnik\Dnevnik\bin\Debug\net8.0\Dnevnik.deps.json
+D:\Нова папка\Dnevnik\Dnevnik\bin\Debug\net8.0\Dnevnik.runtimeconfig.json
+D:\Нова папка\Dnevnik\Dnevnik\bin\Debug\net8.0\Dnevnik.dll
+D:\Нова папка\Dnevnik\Dnevnik\bin\Debug\net8.0\Dnevnik.pdb
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.AssemblyInfoInputs.cache
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.AssemblyInfo.cs
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.csproj.CoreCompileInputs.cache
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.dll
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\refint\Dnevnik.dll
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.pdb
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\Dnevnik.genruntimeconfig.cache
+D:\Нова папка\Dnevnik\Dnevnik\obj\Debug\net8.0\ref\Dnevnik.dll
